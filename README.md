@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/6fa8b7d4-62a9-41b4-9ed4-a986a58032bc" />
+<img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/79ac93c3-03e8-4a1d-9485-f04f9481fb83" />
+<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/709b8cf1-5e1a-48f6-9041-3392f814c390" />
 # excel-superstore-analytics
 A localized retail data analytics project optimizing delivery timelines and regional profit margins using advanced excel function
 
